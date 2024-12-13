@@ -6,7 +6,7 @@ The hospitality industry is highly competitive and influenced by dynamic custome
 
 ## Overview
 
-This project focuses on performing exploratory data analysis (EDA) on hotel bookings data to extract meaningful insights that inform strategic decision-making, optimize hotel operations, and enhance overall business performance. The dataset includes variables such as hotel types, booking patterns, customer demographics, revenue sources, and cancellation trends. You can view the interactive PowerBI dashboard [here](#).
+This project focuses on performing exploratory data analysis (EDA) on hotel bookings data to extract meaningful insights that inform strategic decision-making, optimize hotel operations, and enhance overall business performance. The dataset includes variables such as hotel types, booking patterns, customer demographics, revenue sources, and cancellation trends. You can view the interactive PowerBI dashboard [here](https://app.fabric.microsoft.com/view?r=eyJrIjoiOWE4MWM0ZTYtNjZkNC00OWNiLWEwNGQtNjEwYWI4M2U5ODFlIiwidCI6IjI2Y2FmZWNkLTVjNzgtNGI4Ny05Njk0LTk2MzI4OTU3MmY0MiJ9).
 
 ## Key Objectives
 
